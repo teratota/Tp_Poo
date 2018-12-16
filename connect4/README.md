@@ -81,4 +81,3 @@ Bien que le code fourni soit en anglais, le code produit lors de votre contrôle
 L'environnement docker est facultatif.
 
 Une tolérance de 20% en plus ou moins est appliquée sur le nombre de mots de la dernière question théorique.
-
